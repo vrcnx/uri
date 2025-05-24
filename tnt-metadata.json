@@ -1,0 +1,50 @@
+{
+  "name": "TestNet Token",
+  "symbol": "TNT",
+  "description": "The ultimate meme coin for testing your crypto network configurations. Get ready to configure and laugh!",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/tnt-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Network Status",
+      "value": "Testing"
+    },
+    {
+      "trait_type": "Meme Level",
+      "value": "High"
+    },
+    {
+      "trait_type": "Community Engagement",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/tnt-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Test Meme Coin",
+  "symbol": "TMC",
+  "description": "The dankest test meme coin on Solana.",
+  "image": "https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest/scale-to-width-down/767?cb=20140520015336",
+  "decimals": 6,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest/scale-to-width-down/767?cb=20140520015336",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

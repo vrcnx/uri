@@ -1,0 +1,50 @@
+{
+  "name": "Mystic Catspell",
+  "symbol": "MCAT",
+  "description": "A whimsical token inspired by a wizard cat casting spells and spreading joy in the crypto realm.",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/mcat-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Magic Level",
+      "value": "High"
+    },
+    {
+      "trait_type": "Cuteness Factor",
+      "value": "Off the Charts"
+    },
+    {
+      "trait_type": "Spell Cast Frequency",
+      "value": "Frequent"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/mcat-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

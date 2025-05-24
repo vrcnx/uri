@@ -1,0 +1,54 @@
+{
+  "name": "Magic Cat Wizard",
+  "symbol": "MEOWZ",
+  "description": "Unleash the power of the enchanted feline! Join the magical community of cat-loving wizards.",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/meowz-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Powers",
+      "value": "Spellbinding"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mystic Purple"
+    },
+    {
+      "trait_type": "Hat Style",
+      "value": "Pointy Wizard Hat"
+    },
+    {
+      "trait_type": "Magic Level",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/meowz-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

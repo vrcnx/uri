@@ -1,0 +1,54 @@
+{
+  "name": "GigaChadCoin",
+  "symbol": "GCHD",
+  "description": "The ultimate token for the alpha in all of us. Pump up your wallet and flex on the haters!",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/gchd-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Muscle Strength",
+      "value": "Maxed Out"
+    },
+    {
+      "trait_type": "Swagger Level",
+      "value": "100%"
+    },
+    {
+      "trait_type": "Meme Potential",
+      "value": "Infinite"
+    },
+    {
+      "trait_type": "Hype Factor",
+      "value": "Ultra"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/gchd-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

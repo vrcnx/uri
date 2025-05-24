@@ -1,0 +1,50 @@
+{
+  "name": "Liquidity Llama",
+  "symbol": "LLAMA",
+  "description": "Join the fun with Liquidity Llama, the token that helps you test your pool creation skills while having a blast!",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/llama-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Mood",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Bright Green"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Cartoonish"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/llama-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

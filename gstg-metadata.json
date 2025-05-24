@@ -1,0 +1,54 @@
+{
+  "name": "Galactic Stripe Tiger",
+  "symbol": "GSTG",
+  "description": "Unleash the power of the cosmos with this glowing striped meme token! Join the interstellar feline adventure today.",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/gstg-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Glow Intensity",
+      "value": "High"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Nebula Blue"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Starlight Gold"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "Warp Speed"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/gstg-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

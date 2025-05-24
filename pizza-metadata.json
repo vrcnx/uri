@@ -1,0 +1,50 @@
+{
+  "name": "Doge Pizza Party",
+  "symbol": "PIZZA",
+  "description": "Join the pawsome pizza-loving doges as they celebrate cheesy goodness with every transaction!",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/pizza-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Crust Thickness",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Topping Variety",
+      "value": "Unlimited"
+    },
+    {
+      "trait_type": "Slice Count",
+      "value": "Infinite"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/pizza-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HARMewCMJ9z49ThAVmupkcFx8eWPeMGMKdyYKHegmioB",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

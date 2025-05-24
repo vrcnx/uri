@@ -1,0 +1,50 @@
+{
+  "name": "DogeDance Fever",
+  "symbol": "DDF",
+  "description": "Join the grooviest canine party with DogeDance Fever, the token that makes you move with laughter and joy!",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/ddf-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Dance Moves",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Furry Friends",
+      "value": "Doge & Friends"
+    },
+    {
+      "trait_type": "Party Vibes",
+      "value": "Ultra Fun"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/ddf-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

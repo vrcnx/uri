@@ -1,0 +1,50 @@
+{
+  "name": "DiscoBot Token",
+  "symbol": "DBT",
+  "description": "Join the party with DiscoBot Token, a vibrant meme coin inspired by a dancing robot with dazzling rainbow lights.",
+  "image": "https://raw.githubusercontent.com/vrcnx/uri/main/dbt-icon.png",
+  "decimals": 6,
+  "attributes": [
+    {
+      "trait_type": "Dance Moves",
+      "value": "Funky"
+    },
+    {
+      "trait_type": "Light Show",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Energy Level",
+      "value": "High"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-05-24"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vrcnx/uri/main/dbt-icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3FBrWTmyTYxueg2LeU1rqPyoifsQzgTGgj9X4rHSqQoP",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://github.com/vrcnx/uri",
+  "animation_url": null
+}

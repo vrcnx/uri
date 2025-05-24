@@ -1,7 +1,7 @@
 {
   "name": "Epic Meme Coin",
   "symbol": "EPIC",
-  "description": "The most epic meme coin on Solana blockchain.",
+  "description": "The most epic meme coin on Solana blockchain with legendary status.",
   "image": "https://raw.githubusercontent.com/vrcnx/uri/main/epic-icon.png",
   "decimals": 6,
   "attributes": [
@@ -12,6 +12,10 @@
     {
       "trait_type": "Vibe",
       "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": "Maximum"
     },
     {
       "trait_type": "Network",
